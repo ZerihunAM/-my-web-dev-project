@@ -1,1 +1,9 @@
-echo="hello world";
+/*echo="hello world";*/
+body{
+    background :lightblue;
+}
+h1{
+    color:brown;
+    text-align:center;
+}
+
